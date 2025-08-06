@@ -20,7 +20,7 @@ Donde desarrollé mi creatividad y capacidad para resolver problemas complejos.
 Si buscas a alguien comprometido, resolutivo y con muchas ganas de aprender, ¡conversemos!
 
 🌍 Vivo en Madrid, España.  
-🖥️ Mira mi portafolio aquí.  
+🖥️ Mira mi portafolio [aquí](https://jorgealfonsoalcalde-ten.vercel.app/).  
 ✉️ Puedes contactarme en **jorgealfonsoalcalde@gmail.com**  
 🧠 Actualmente estoy aprendiendo **Arquitectura de software en AWS**.  
 🤝 Estoy abierto a colaborar en **proyectos ambiciosos y que requieren de gran conocimiento técnico**.  
