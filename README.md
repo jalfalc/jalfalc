@@ -1,4 +1,4 @@
-# 👋 Hola, mi nombre es Jorge Alfonso Alcalde - Desarrollador Web Fullstack
+#  Hola👋, soy Jorge Alfonso Alcalde - Desarrollador Web Fullstack
 
 Soy una persona curiosa, proactiva y con gran capacidad de aprendizaje y adaptación. Me encanta afrontar nuevos retos y trabajar en entornos dinámicos donde pueda seguir creciendo.
 
